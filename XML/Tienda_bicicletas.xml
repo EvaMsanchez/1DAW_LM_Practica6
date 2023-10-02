@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+
+    <datos>
+        <nombre>SALOBIKE, S.L.</nombre>
+        <direccion>C/ Everest, 2</direccion>
+        <cp>41000</cp>
+        <provincia>Sevilla</provincia>
+        <telefono>955941111/622555888</telefono>
+        <web>www.orbea.com</web>
+    </datos>
+
+    <bicicletas>
+        <bicicleta>
+            <marca>Orbea</marca>
+            <modelo>Alma</modelo>
+            <tipo suspension="rigida" />
+            <anio>2019</anio>
+            <color>turquesa</color>
+            <precio>1.800,00 €</precio>
+        </bicicleta>
+
+        <bicicleta>
+            <marca>Trek</marca>
+            <modelo>Marlin 7</modelo>
+            <tipo suspension="doble" />
+            <anio>2021</anio>
+            <color>negro</color>
+            <precio>860,00 €</precio>
+        </bicicleta>
+
+        <bicicleta>
+            <marca>Orbea</marca>
+            <modelo>Oiz</modelo>
+            <tipo suspension="doble" />
+            <anio>2023</anio>
+            <color>blanco</color>
+            <precio>2.520,00 €</precio>
+        </bicicleta>
+
+        <bicicleta>
+            <marca>Cannondale</marca>
+            <modelo>Synapse</modelo>
+            <tipo suspension="doble" />
+            <anio>2022</anio>
+            <color>rojo</color>
+            <precio>4.699,00 €</precio>
+        </bicicleta>
+
+        <bicicleta>
+            <marca>Orbea</marca>
+            <modelo>Rise</modelo>
+            <tipo suspension="rigida" />
+            <anio>2020</anio>
+            <color>turquesa</color>
+            <precio>5.299,00 €</precio>
+        </bicicleta>
+    </bicicletas>
+
+    <articulos>
+        <equipamiento>
+            <marca>Gobik</marca>
+            <descripcion>maillot</descripcion>
+            <talla>S</talla>
+        </equipamiento>
+
+        <equipamiento>
+            <marca>Siroko</marca>
+            <descripcion>culotte</descripcion>
+            <talla>M</talla>
+        </equipamiento>
+
+        <equipamiento>
+            <marca>Gobik</marca>
+            <descripcion>culotte</descripcion>
+            <talla>S</talla>
+        </equipamiento>
+
+        <equipamiento>
+            <marca>Alé</marca>
+            <descripcion>maillot</descripcion>
+            <talla>M</talla>
+        </equipamiento>
+
+        <equipamiento>
+            <marca>Siroko</marca>
+            <descripcion>maillot</descripcion>
+            <talla>L</talla>
+        </equipamiento>
+
+        <equipamiento>
+            <marca>Gobik</marca>
+            <descripcion>guantes</descripcion>
+            <talla>M</talla>
+        </equipamiento>
+    </articulos>
+
+    <repuestos>
+        <repuesto>
+            <pieza>Cambio</pieza>
+            <marca>Shimano Tourney</marca>
+            <stock>15</stock>
+        </repuesto>
+
+        <repuesto>
+            <pieza>Maneta freno</pieza>
+            <marca>Magura</marca>
+            <stock>30</stock>
+        </repuesto>
+
+        <repuesto>
+            <pieza>Cambio</pieza>
+            <marca>Shimano Race</marca>
+            <stock>42</stock>
+        </repuesto>
+
+        <repuesto>
+            <pieza>Cambio</pieza>
+            <marca>Shimano Claris</marca>
+            <stock>26</stock>
+        </repuesto>
+
+        <repuesto>
+            <pieza>Cadena</pieza>
+            <marca>Zonkie</marca>
+            <stock>18</stock>
+        </repuesto>
+
+        <repuesto>
+            <pieza>Maneta freno</pieza>
+            <marca>Shimano XT M8100</marca>
+            <stock>25</stock>
+        </repuesto>
+
+        <repuesto>
+            <pieza>Cambio</pieza>
+            <marca>Shimano Tourney</marca>
+            <stock>6</stock>
+        </repuesto>
+    </repuestos>
+
+</empresa>
